@@ -1,0 +1,6 @@
+langchain
+openai
+fastapi
+websockets
+pydantic
+uvicorn
